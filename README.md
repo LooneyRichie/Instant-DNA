@@ -10,7 +10,7 @@
 A revolutionary high-performance DNA/RNA analysis system built in Rust, featuring breakthrough DIY DNA extraction and the world's first Q-tip to professional VCF genomic analysis pipeline. Designed for commercial deployment in the $20B+ genomic testing market.
 
 **🎯 SEEKING INVESTORS AND STRATEGIC PARTNERS**  
-Contact: richie@looney-algorithm.com
+Contact: richieandkayla@gmail.com
 
 ## 🚀 Features
 
