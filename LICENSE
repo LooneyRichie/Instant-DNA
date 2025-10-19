@@ -1,0 +1,89 @@
+
+Proprietary - No Use Without Express Written Permission
+
+Copyright (c) 2025 Richie Looney. All rights reserved.
+
+This software (the "Software") and all associated source code, binary
+form, object code, documentation, data, algorithms, models, designs, and
+other materials provided with the Software are the exclusive confidential
+and proprietary property of Richie Looney ("Owner"). No rights are
+granted to any party except as expressly provided in a separate,
+written license signed by Owner.
+
+1. No license; no use without permission
+   - Except for the limited rights expressly granted in a written
+     agreement signed by Owner, you have no license or rights to use,
+     copy, modify, distribute, publish, display, perform, sublicense,
+     transfer, sell, export, create derivative works from, or otherwise
+     exploit the Software or any portion thereof in any form.
+
+2. Absolute restrictions
+   - You may NOT, under any circumstances, without prior written
+     permission from Owner:
+       a) Install, run, or use the Software in a production system or for
+          any commercial purpose; or
+       b) Reproduce, copy, distribute or make available the Software to
+          any third party (including as part of a hosted service);
+       c) Reverse engineer, decompile, disassemble, or attempt to derive
+          the source code of the Software; or
+       d) Modify the Software or create derivative works based on it;
+       e) Remove, alter, or obscure any copyright, trademark, or other
+          proprietary notices contained in the Software.
+
+3. Confidentiality and NDAs
+   - The Software and any related information are confidential.
+     Disclosure or access by prospective investors, contractors, service
+     providers, or third parties must be governed by a signed
+     non-disclosure agreement (NDA) approved by Owner and by a written
+     access agreement executed by Owner.
+
+4. Contributions and IP assignment
+   - No contribution will be accepted unless the contributor has executed
+     an IP assignment or a Contributor License Agreement (CLA) that
+     transfers or licenses all intellectual property rights in the
+     contribution to Owner on terms satisfactory to Owner. Contractor or
+     employee contributions should be governed by written IP assignment
+     clauses in their engagement contracts.
+
+5. Enforcement and remedies
+   - Any unauthorized use, disclosure, distribution, or exploitation of
+     the Software may cause irreparable harm to Owner. Owner shall be
+     entitled to injunctive relief in addition to any other remedies at
+     law or in equity, including damages and recovery of attorneys' fees.
+
+6. Warranty disclaimer
+   - THE SOFTWARE IS PROVIDED "AS IS" AND OWNER DISCLAIMS ALL IMPLIED
+     WARRANTIES, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF
+     MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, OR
+     NON-INFRINGEMENT.
+
+7. Limitation of liability
+   - TO THE MAXIMUM EXTENT PERMITTED BY LAW, OWNER SHALL NOT BE LIABLE
+     FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+     DAMAGES, OR FOR LOST PROFITS, REVENUE, DATA OR USE, ARISING OUT OF
+     OR IN CONNECTION WITH THE SOFTWARE, EVEN IF ADVISED OF THE
+     POSSIBILITY OF SUCH DAMAGES.
+
+8. Governing law
+   - This License is governed by the laws of YOUR_JURISDICTION. Replace
+     `YOUR_JURISDICTION` with the jurisdiction you choose (for example,
+     a state or country) and have a lawyer confirm the selection.
+
+9. Contact & legal review
+   - To request permission to use the Software or for investor or
+     contributor access, contact Owner and obtain a signed written
+     license or access agreement before any access or use:
+
+       Owner: Richie Looney
+       Email: [richieandkayla@gmail.com]
+
+   - This document is a template and does not constitute legal advice.
+     Have your counsel review and finalize an enforceable license and
+     contributor/IP documents prior to sharing the code or discussing
+     the Software with investors.
+
+----
+NOTICE: This file is intended to prevent any use of the code unless you
+have explicit, written permission from the Owner. It is not a
+substitute for professional legal counsel. Replace bracketed placeholders
+and confirm jurisdictional language with an attorney.

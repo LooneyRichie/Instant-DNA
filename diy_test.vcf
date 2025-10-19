@@ -1,0 +1,14 @@
+##fileformat=VCFv4.3
+##fileDate=20250904
+##source=InstantDNA_DIY_Manual_Entry_v2.0.0
+##reference=GRCh37
+##INFO=<ID=RS,Number=1,Type=String,Description="dbSNP RS identifier">
+##INFO=<ID=CONF,Number=1,Type=Float,Description="Manual entry confidence">
+##INFO=<ID=METHOD,Number=1,Type=String,Description="Manual genotyping method">
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+##NOTE=DIY home extraction and manual genotyping
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	RichieLooney
+15	28365618	rs12913832	G	.	90	PASS	RS=rs12913832;CONF=0.90;METHOD=visual_trait	GT	0/0
+16	48258198	rs17822931	G	.	90	PASS	RS=rs17822931;CONF=0.90;METHOD=phenotype	GT	0/0
+16	89986091	rs1805007	C	.	80	PASS	RS=rs1805007;CONF=0.80;METHOD=visual_trait	GT	0/0
+2	136608646	rs4988235	G	.	70	PASS	RS=rs4988235;CONF=0.70;METHOD=phenotype	GT	0/0

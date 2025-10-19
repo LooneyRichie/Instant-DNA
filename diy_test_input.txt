@@ -1,0 +1,5 @@
+rs12913832,15,28365618,GG,0.9,visual_trait
+rs1805007,16,89986091,CC,0.8,visual_trait
+rs4988235,2,136608646,GG,0.7,phenotype
+rs17822931,16,48258198,GG,0.9,phenotype
+done

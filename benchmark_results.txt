@@ -1,0 +1,64 @@
+🏁 DNA Analysis Benchmark Results
+=====================================
+
+📊 Task: vcf_processing
+----------------------------------------
+#1 ✅ Instant DNA (2.0.0): 0.008s
+#2 ✅ BCFtools (1.19): 7.867s
+#3 ❌ PLINK (N/A): FAILED
+    Error: Tool not installed
+#3 ❌ VCFtools (N/A): FAILED
+    Error: Tool not installed
+#3 ❌ GATK (N/A): FAILED
+    Error: Tool not installed
+#3 ❌ SAMtools (Unknown): FAILED
+    Error: Success rate: 0.0%
+
+📊 Task: sequence_alignment
+----------------------------------------
+#1 ✅ Instant DNA (2.0.0): 0.004s
+#2 ❌ PLINK (N/A): FAILED
+    Error: Tool not installed
+#2 ❌ VCFtools (N/A): FAILED
+    Error: Tool not installed
+#2 ❌ GATK (N/A): FAILED
+    Error: Tool not installed
+#2 ❌ SAMtools (Unknown): FAILED
+    Error: Success rate: 0.0%
+#2 ❌ BCFtools (1.19): FAILED
+    Error: Success rate: 0.0%
+
+📊 Task: variant_calling
+----------------------------------------
+#1 ✅ BCFtools (1.19): 108.868s
+#2 ❌ PLINK (N/A): FAILED
+    Error: Tool not installed
+#2 ❌ VCFtools (N/A): FAILED
+    Error: Tool not installed
+#2 ❌ GATK (N/A): FAILED
+    Error: Tool not installed
+#2 ❌ SAMtools (Unknown): FAILED
+    Error: Success rate: 0.0%
+#2 ❌ Instant DNA (2.0.0): FAILED
+    Error: Success rate: 0.0%
+
+📊 Task: ancestry_analysis
+----------------------------------------
+#1 ❌ PLINK (N/A): FAILED
+    Error: Tool not installed
+#1 ❌ VCFtools (N/A): FAILED
+    Error: Tool not installed
+#1 ❌ GATK (N/A): FAILED
+    Error: Tool not installed
+#1 ❌ BCFtools (1.19): FAILED
+    Error: Success rate: 0.0%
+#1 ❌ SAMtools (Unknown): FAILED
+    Error: Success rate: 0.0%
+#1 ❌ Instant DNA (2.0.0): FAILED
+    Error: Success rate: 0.0%
+
+🚀 Instant DNA Performance Summary
+==================================
+Average processing time: 0.006s
+Successful tasks: 2/4
+964.6297445721538x faster than BCFtools in vcf_processing
