@@ -595,52 +595,8 @@ for sample in mom dad child1 child2; do
 done
 ```
 
-## ⚖️ License & Business Information
 
-**PROPRIETARY LICENSE - ALL RIGHTS RESERVED**
-
-This software represents significant business opportunities in the $20B+ genomic testing market. Key innovations include:
-
-- **🧬 World's First DIY DNA Extraction System** - Q-tip to professional VCF format
-- **⚡ 964x Performance Advantage** - Proven faster than industry standard tools  
-- **🎯 Universal Format Conversion** - Auto-detects and converts all major DNA formats
-- **🔬 Interactive Manual Genotyping** - Revolutionary phenotype-based SNP estimation
-
-**📊 Market Opportunities:**
-- DIY Home DNA Testing Kits ($20B market)
-- Professional Genomic Analysis Platforms ($12B market)  
-- Educational Technology Integration ($350B market)
-- Healthcare and Ancestry Services (Unlimited potential)
-
-**🤝 Investment & Partnership Inquiries:**
-- Technology Licensing: richieandkayla@gmail.com
-- Strategic Partnerships: Available for exclusive licensing deals
-- Investment Opportunities: Seeking Series A funding for commercialization
-- Research Collaboration: Academic and enterprise partnerships welcome
-
-See [LICENSE](LICENSE) file for complete terms and legal protections.
-
-## 🤝 Business Development & Collaboration
-
-**PROPRIETARY TECHNOLOGY - LICENSING AVAILABLE**
-
-This technology is available for:
-- **🏢 Enterprise Licensing** - Commercial deployment rights
-- **🔬 Research Partnerships** - Academic collaboration agreements  
-- **💰 Investment Opportunities** - Equity partnerships for scaling
-- **🌍 Global Distribution** - Regional licensing and franchising
-
-**Current Development Stage:** Complete MVP with proven performance advantages
-
-**Next Phase Requirements:**
-- Hardware integration (microcontroller, Raspberry Pi Pico, card reader)
-- Mobile app development for consumer market
-- Cloud platform deployment for scalability
-- Regulatory compliance for medical applications
-
-Contact richieandkayla@gmail.com for business inquiries.
-
-## ⚠️ Important Notes
+**Important Notes:**
 
 - This tool is for research and educational purposes
 - Results should be interpreted by qualified professionals
